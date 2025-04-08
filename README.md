@@ -6,6 +6,8 @@ These are 200+ flashcards I made to review everything from my years of ML resear
 
 The PDFs in this repo are mostly for convenience. __Check out these presentation slide links for the most up to date and animated Q&A versions__, with additional links in the speaker notes:
 
+
+
 * [1 Computer Science Slides](https://docs.google.com/presentation/d/1uGIda3-VgQqzA3KQUDieiuPPF2-dJsH9-c1sRv0gfRs/edit?usp=sharing)
 * [2 Machine Learning General Slides](https://docs.google.com/presentation/d/1qSOwBrjEmZTXQqNqB9XRAV7QsB6SJrLZ4pZBCkpvzyA/edit?usp=sharing)
 * [3 Fundamentals for Computer Vision & Deep Learning Slides](https://docs.google.com/presentation/d/1Ru9UPxlXnx7FZ3bxcQ-SH9TB6nHtOflYYA1N_UMzv2g/edit?usp=sharing)
